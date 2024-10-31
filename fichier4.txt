@@ -1,0 +1,28 @@
+La "Fenêtre Commit" sur GitHub est une interface qui s'ouvre lorsque vous faites des modifications directement sur un fichier dans un dépôt GitHub via l'interface web. Elle permet de sauvegarder ces changements en créant un commit.
+
+Comment utiliser la fenêtre Commit de GitHub
+Accédez au fichier à modifier :
+
+Allez dans le dépôt GitHub où vous souhaitez modifier un fichier.
+Naviguez vers le fichier spécifique et cliquez sur l'icône du crayon (✏️) en haut à droite pour l'éditer.
+Apporter des modifications :
+
+Modifiez le contenu du fichier directement dans l’éditeur de texte en ligne.
+La fenêtre Commit :
+
+Sous l’éditeur, vous trouverez la "fenêtre Commit". Cette section comporte plusieurs éléments :
+Message de commit : Dans le champ "Commit changes", entrez un message court et descriptif (comme "Ajout de détails sur la documentation"). Ce message décrit les changements effectués.
+Description (optionnelle) : En dessous du message de commit, vous pouvez ajouter une description plus détaillée si nécessaire.
+Options de commit :
+Commit directly to the main branch : pour enregistrer directement les modifications sur la branche principale.
+Create a new branch for this commit and start a pull request : pour enregistrer les changements dans une nouvelle branche et créer une pull request (utile pour les révisions et validations dans les projets collaboratifs).
+Enregistrer le commit :
+
+Cliquez sur Commit changes pour sauvegarder vos modifications. Si vous avez choisi de créer une nouvelle branche, GitHub vous proposera de créer une pull request pour examiner et fusionner les modifications.
+La fenêtre Commit sur GitHub simplifie la contribution en ligne, particulièrement pour les petites modifications comme la correction de fautes, la mise à jour de la documentation, ou de petites corrections de code.
+
+
+
+
+
+
